@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/root/.vim'
+let g:netrw_dirhist_2='/usr/src/linux-headers-3.2.0-23/arch/arm/mach-s3c2440/include/mach'
+let g:netrw_dirhist_3='/usr/src/linux-headers-3.2.0-31/arch/arm/mach-s3c2440/include'
+let g:netrw_dirhist_4='/usr/src/linux-headers-3.2.0-31/arch/arm/mach-s3c2440/include/mach'
+let g:netrw_dirhist_5='/root/example/.git'
+let g:netrw_dirhist_6='/root/.vim'

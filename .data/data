@@ -1,0 +1,7 @@
+#!/bin/bash
+echo 'cp -f /root/.backupgit/.bashrc /root/.bashrc'
+cp  /root/.backupgit/.bashrc /root/.bashrc
+echo 'cp -rf /root/.backupgit/.vim /root/.vim'
+cp -rf /root/.backupgit/.vim /root/.vim
+echo 'cp -f /root/.backupgit/.vimrc /root/.vimrc'
+cp  /root/.backupgit/.vimrc /root/.vimrc
