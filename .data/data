@@ -5,3 +5,7 @@ echo 'cp -rf /root/.backupgit/.vim /root/.vim'
 cp -rf /root/.backupgit/.vim /root/.vim
 echo 'cp -f /root/.backupgit/.vimrc /root/.vimrc'
 cp  /root/.backupgit/.vimrc /root/.vimrc
+echo 'cp -f /root/.backupgit/compiz.profile compiz.profile'
+cp  /root/.backupgit/compiz.profile compiz.profile
+echo 'cp -f /root/.backupgit/grub /etc/default/grub'
+cp  /root/.backupgit/grub /etc/default/grub
